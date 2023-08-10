@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/8/7 12:00 AM UTC
+			2023/8/8 12:00 AM UTC
 		</td>
 		<td>
-			299
+			328
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/freistli/pageviews/raw/master/graph/599430290/small/year.png" height="20"> 2140
+			<img alt="Response time graph" src="https://github.com/freistli/pageviews/raw/master/graph/599430290/small/year.png" height="20"> 2329
 		</td>
 	</tr>
 	<tr>
@@ -42,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/8/7 12:00 AM UTC
+			2023/8/8 12:00 AM UTC
 		</td>
 		<td>
-			58
+			62
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/freistli/pageviews/raw/master/graph/618337667/small/year.png" height="20"> 166
+			<img alt="Response time graph" src="https://github.com/freistli/pageviews/raw/master/graph/618337667/small/year.png" height="20"> 174
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/8/10 3:36 AM UTC</i></small>
+<small><i>Last updated on 2023/8/10 3:50 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
