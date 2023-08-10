@@ -4,6 +4,7 @@
   "language": "en-US",
   "repository": [
     "rootbot",
-    "TeamsAIBot"
+    "TeamsAIBot",
+    "LiveShareCanvasBabylon"
   ]
 }
